@@ -12,3 +12,4 @@ def oxford_comma(array)
       counter+=1
     end
   end
+end
