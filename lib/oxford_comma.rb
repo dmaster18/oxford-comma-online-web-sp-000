@@ -9,7 +9,7 @@ def oxford_comma(array)
     counter+=1
   end
   if counter == array.length - 2 
-      new_string_element 
+      new_string_element = array[counter].to_s + ","
   if element != array.
         array.join(',')
     else
