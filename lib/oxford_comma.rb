@@ -3,6 +3,7 @@ def oxford_comma(array)
   new_array = []
   while counter < array.length - 2
     new_string_element = array[counter].to_s
+    new string = 
     counter+=1
   if element != array.
         array.join(',')
