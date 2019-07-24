@@ -5,7 +5,7 @@ def oxford_comma(array)
   while counter < array.length
     if counter == array.length - 2 
       new_string_element = array[counter].to_s << ", and "
-      new_string = new_string_element << new_string
+      new_string = new_stringnew_string_element << 
     else
       new_string_element = array[counter].to_s << ","
       new_string = new_string << new_string_element
