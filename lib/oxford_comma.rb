@@ -2,7 +2,7 @@ def oxford_comma(array)
   counter = 0
   new_array = []
   while counter < array.length - 2
-    array[counter].join()
+    array[counter].to_s
   if element != array.
         array.join(',')
     else
