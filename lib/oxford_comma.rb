@@ -15,4 +15,4 @@ def oxford_comma(array)
   end
 end
 
-oxford
+oxford_comma([])
