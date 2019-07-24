@@ -15,4 +15,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma(["Pepperoni", "Sausage", "Meatball"])
+puts oxford_comma(["Pepperoni", "Sausage", "Meatball"])
