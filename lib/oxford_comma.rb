@@ -1,6 +1,6 @@
 def oxford_comma(array)
   array.each do |element|
-    if 
+    if element != 
   end
   array.join(',')
 end
