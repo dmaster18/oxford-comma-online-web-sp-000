@@ -12,12 +12,3 @@ def oxford_comma(array)
       counter+=1
     end
   end
-  
-  
-  if element != array.
-        array.join(',')
-    else
-       array.join(',')
-  end
-
-end
