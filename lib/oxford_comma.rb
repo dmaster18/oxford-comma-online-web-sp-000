@@ -12,6 +12,7 @@ def oxford_comma(array)
       new_string = new_string_element << new_string
       counter+=1
     end
+    return new_string
   end
 end
 
