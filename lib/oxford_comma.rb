@@ -1,6 +1,6 @@
 def oxford_comma(array)
   counter = 0
-  while 
+  while counter 
   if element != array.
         array.join(',')
     else
