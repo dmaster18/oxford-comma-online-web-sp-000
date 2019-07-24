@@ -1,6 +1,8 @@
 def oxford_comma(array)
   counter = 0
   new_array = []
+  new_string_element
+  
   while counter < array.length - 2
     new_string_element = array[counter].to_s
     new string = 
